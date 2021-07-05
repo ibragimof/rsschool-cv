@@ -62,6 +62,7 @@ I've some expirience in e-commerce and learning system management developing (Mo
 
 - 2019-Current
 > International Islamic Academy of Uzbekistan
+
 ------
 
 
@@ -70,6 +71,6 @@ I've some expirience in e-commerce and learning system management developing (Mo
  - Russian (C2)
  - Arabic (A2)
 
- 
+
  ----------
 
