@@ -49,9 +49,13 @@ for(i = 0; i < 100; i++){
 console.log(sum);
 ```
 -------
+
+
 ## Expirience
 I've some expirience in e-commerce and learning system management developing (Moodle). Now I am working as a teacher of Arabic language grammar for first-step schools
 --------
+
+
 ## Education
 - 2009-2012
 > The Tashkent College of Informational Technology
@@ -59,10 +63,13 @@ I've some expirience in e-commerce and learning system management developing (Mo
 - 2019-Current
 > International Islamic Academy of Uzbekistan
 ------
+
+
 ## Language skills
  - English (B2)
  - Russian (C2)
  - Arabic (A2)
- ----------
 
  
+ ----------
+
