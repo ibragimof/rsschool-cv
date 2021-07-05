@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+span {
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.container>.another {
+    text-align: center;
+}
+footer {
+    margin-top: 10%;
+}
