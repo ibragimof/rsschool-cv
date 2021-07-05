@@ -19,10 +19,10 @@ _First name:_
 
 ## Resume
 **About me:**
-I'm from Uzbekistan, 28 y.o student of oriental sciences. Development and research in institute requires some programming skills, because it will reinforce all sciencific process. So I am going to learn coding in JavaScript. May be I will update this paragraph later.
+I'm from Uzbekistan, 28 y.o student of oriental sciences. Development and research in institute requires some programming semantic, because it will reinforce all sciencific process. So I am going to learn coding in JavaScript. May be I will update this paragraph later.
 
 ----- 
-## Skills
+## semantic
 1. Graphic Design 
 - Figma
 - Adobe Illustrator
@@ -66,7 +66,7 @@ I've some expirience in e-commerce and learning system management developing (Mo
 ------
 
 
-## Language skills
+## Language semantic
  - English (B2)
  - Russian (C2)
  - Arabic (A2)
